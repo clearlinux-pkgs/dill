@@ -4,7 +4,7 @@
 #
 Name     : dill
 Version  : 0.3.3
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/0d/5a/0534e0eb113be5635a6bd5e8b22ddf780cf977a403155fd4e07e6b92fb3d/dill-0.3.3.zip
 Source0  : https://files.pythonhosted.org/packages/0d/5a/0534e0eb113be5635a6bd5e8b22ddf780cf977a403155fd4e07e6b92fb3d/dill-0.3.3.zip
 Summary  : serialize all of python
